@@ -1,0 +1,113 @@
+.para1
+{
+    text-align: center;
+}
+.span1{
+    text-align: center;
+    padding-top: 25px;
+    font-family: 'Lucida Sans';
+}
+.icon1{
+    font-size: 26px;
+    font-style: none;
+    font-family: 'Lucida Sans';
+}
+.icon2{
+    margin-top: 60px;
+}
+.sec1{
+    background-image: url("pic1.jpg");
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-position: top center;
+}
+ .sec2
+{
+    margin-top: 20px;
+} 
+/*   */
+.para2{
+    text-align: right;
+}
+.inbox4{
+    text-align: center;
+    border-right: 2px solid #979595;
+    border-left:2px solid #979595 ;
+    padding-left: 20px;
+    padding-right: 20PX;
+}
+.frst{
+    padding-left: 45px;
+    text-align: center;
+}
+.frst1{
+    padding-left: 60px;
+    
+}
+.butt
+{
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.515);
+    background-color: rgba(194, 13, 13, 0.849);
+    padding: 20px;
+
+}
+.butt:hover{
+    background: rgb(7, 1, 1);
+    color: rgb(241, 154, 154);
+}
+.pic{
+    border-radius: 50px 50px;
+    margin: 50px;
+}
+.in
+{
+    /* float: left; */
+    /* position: absolute;
+    left: 300px; */
+    /* margin-left:200px; */
+    text-align: right;
+    padding-top: 20px;
+}
+.img1:hover{
+    border: 3px solid rgba(194, 13, 13, 0.849);
+    border-radius: 50% ;
+}
+.img1{
+    border-radius: 50%; 
+    width: 50px;   
+     height: 50px; 
+}
+.in1
+{
+    text-align: center;
+    padding-top: 20px;
+}
+.in2
+{
+    text-align: left;
+    padding-top: 20px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 8px;
+}
+.end{
+    color: #cbc6c6;
+    font-size: 10px;
+}
+.inbox1{
+    height: 500px;
+    margin-top: 90px;
+    text-align: center;
+}
+.trans{
+    background-color: rgba(238, 186, 137, 0.466);
+}
+.text1
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
